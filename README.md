@@ -1,35 +1,29 @@
 # HD 98800 Orbital Solution
 
-This repository contains the orbital and dynamical analysis of the quadruple star system HD 98800, presented in Zuñiga-Fernández et al. 2026.
+This repository is based on the work developed for the publication ["The HD 98800 quadruple pre-main sequence system. Towards full orbital characterisation using long-baseline infrared interferometry", Zúñiga-Fernández et al. 2021](https://arxiv.org/abs/2109.02841), and recently updated in the Letter to the Editor ["Peering through the disc of HD 98800 BaBb. Precise timing predictions for the HD 98800 AaAb occultation", Zúñiga-Fernández et al. 2026](https://arxiv.org/abs/2607.11599).
 
-## System Overview
-
-HD 98800 is a hierarchical quadruple system composed of two binary pairs:
-- **AB**: The wide outer binary
-- **Aa/Ab** and **Ba/Bb**: The inner binary components
-
-This repository maintains updated orbital solutions and supporting data for this complex system.
+The goal of this repository is to maintains updated orbital solutions and supporting data for HD98800 system.
 
 ## Repository Structure
 
-- **AB/**: Orbital analysis and posterior distributions for the outer binary pair
-- **AaAb/**: Orbital parameters and radial velocity analysis for the inner Aa/Ab binary
-- **BaBb/**: Orbital parameters and radial velocity analysis for the inner Ba/Bb binary
-- **CSV/**: Posterior distributions and orbital parameters for each subsystem
-- **Plots/**: Generated figures and visualizations
+- **AB**: Orbital analysis and disc occulation predictions for the outer binary pair
+- **AaAb**: Orbital fit analysis for the inner AaAb binary
+- **BaBb**: Orbital fit analysis for the inner BaBb binary
+- **CSV folder**: Posterior distributions and orbital parameters for each subsystem
+- **Plots folder**: Generated figures and visualizations
 
 ## Data and Methodology
 
-Each subsystem folder contains:
+We modelled our dataset with the [exoplanet](https://github.com/exoplanet-dev/exoplanet) software package, which extends the PyMC3 framework to support many of the custom functions and distributions required when fitting orbital parameters. Each subsystem folder contains:
 - Astrometric measurements (`.csv` files)
-- Radial velocity data from multiple instruments (HARPS, NIRPS, FEROS, etc.)
+- Radial velocity data from multiple instruments (HARPS, NIRPS, FEROS, etc. `.csv` files)
 - Jupyter notebooks with the complete orbital fitting analysis
 - Posterior distributions and orbital solutions
 
 ## Citation
 
 If you use this data or analysis, please cite:
-Zuñiga-Fernández et al. 2026
+Zuñiga-Fernández et al. 2021 and 2026
 
 ## License
 
