@@ -1,8 +1,10 @@
 # HD 98800 Orbital Solution
 
-This repository is based on the work developed for the publication ["The HD 98800 quadruple pre-main sequence system. Towards full orbital characterisation using long-baseline infrared interferometry", Zúñiga-Fernández et al. 2021](https://arxiv.org/abs/2109.02841), and recently updated in the Letter to the Editor ["Peering through the disc of HD 98800 BaBb. Precise timing predictions for the HD 98800 AaAb occultation", Zúñiga-Fernández et al. 2026](https://arxiv.org/abs/2607.11599).
+This repository continues the orbital analysis of HD 98800 initiated in ["The HD 98800 quadruple pre-main sequence system. Towards full orbital characterisation using long-baseline infrared interferometry", Zúñiga-Fernández et al. 2021](https://arxiv.org/abs/2109.02841), and recently expanded with ["Peering through the disc of HD 98800 BaBb. Precise timing predictions for the HD 98800 AaAb occultation", Zúñiga-Fernández et al. 2026](https://arxiv.org/abs/2607.11599).
 
-The goal of this repository is to maintains updated orbital solutions and supporting data for HD98800 system.
+## Purpose
+
+This is a public repository maintained to provide the community with updated and refined orbital solutions for the HD 98800 quadruple system. We regularly incorporate new observations and improve the orbital characterization of this complex hierarchical system.
 
 ## Repository Structure
 
