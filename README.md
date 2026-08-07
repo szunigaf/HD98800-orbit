@@ -8,8 +8,8 @@ This is a public repository maintained to provide the community with updated and
 
 ## Version history
 
-v0 - Published in Zúñiga-Fernández et al. 2021 - https://github.com/szunigaf/HD98800-AA2021
-v1 - Published in Zúñiga-Fernández et al. 2026
+- **v0** - Published in Zúñiga-Fernández et al. 2021 - https://github.com/szunigaf/HD98800-AA2021
+- **v1** - Published in Zúñiga-Fernández et al. 2026
 
 ## Repository Structure
 
