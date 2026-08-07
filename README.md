@@ -6,6 +6,11 @@ This repository continues the orbital analysis of HD 98800 initiated in ["The HD
 
 This is a public repository maintained to provide the community with updated and refined orbital solutions for the HD 98800 quadruple system. We regularly incorporate new observations and improve the orbital characterization of this complex hierarchical system.
 
+## Version history
+
+v0 - Published in Zúñiga-Fernández et al. 2021 - https://github.com/szunigaf/HD98800-AA2021
+v1 - Published in Zúñiga-Fernández et al. 2026
+
 ## Repository Structure
 
 - **AB**: Orbital analysis and disc occulation predictions for the outer binary pair
