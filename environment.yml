@@ -1,0 +1,24 @@
+name: exoplanet
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - pip
+  - numpy>=1.22,<1.22.2
+  - scipy
+  - pandas
+  - matplotlib
+  - astropy
+  - mkl-service
+  - jupyterlab
+  - notebook
+  - ipykernel
+  - pip:
+      - pymc3==3.11.5
+      - theano-pymc==1.1.2
+      - exoplanet==0.5.3
+      - celerite2==0.2.1
+      - pymc3-ext==0.1.1
+      - corner
+      - sigfig
