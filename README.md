@@ -10,7 +10,8 @@ This is a public repository maintained to provide the community with updated and
 
 - **v0** - Published in Zúñiga-Fernández et al. 2021 - https://github.com/szunigaf/HD98800-AA2021
 - **v1** - Published in Zúñiga-Fernández et al. 2026
-- **v1.1** - Updated version of AB orbit adding new Speckle Interferometry from Tokovinin et al. 2026, AJ, 172, 8. Adopted errors of 80 mas for all visual micrometer measures (Tokovinin private communication and Tokovinin et al. 2024, AJ, 168, 190).
+- **v1.1** - Updated version of AB orbit adding new Speckle Interferometry from Tokovinin et al. 2026, AJ, 172, 8.
+     - Adopted errors of 80 mas for all visual micrometer measures (Private communication and Tokovinin et al. 2024, AJ, 168, 190).
 
 ## Repository Structure
 
