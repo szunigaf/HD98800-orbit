@@ -46,3 +46,6 @@ Thumbs.db
 *.tmp
 *.log
 .cache/
+WOBBLE_ASTROMETRY_ANALYSIS.md
+astrometry_position.ipynb
+velocity_estimation.ipynb
